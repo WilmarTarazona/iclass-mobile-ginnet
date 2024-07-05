@@ -14,8 +14,8 @@ Run the following commands from your terminal:
   <tbody>
     <tr>
       <td width="1%"><img src="Screenshots/Login.png"/></td>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417378-9da25e84-bf21-401c-bf23-bce3b352311e.jpg"/></td>
-       <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417548-787625af-f4b1-4c9d-8aac-fa9bd7c47bfb.jpg"/></td>
+      <td width="1%"><img src="Screenshots/Main Menu.png"/></td>
+       <td width="1%"><img src="Screenshots/Verification.png"/></td>
     </tr>
   </tbody>
 </table>
