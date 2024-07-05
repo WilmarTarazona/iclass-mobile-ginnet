@@ -8,7 +8,7 @@ Run the following commands from your terminal:
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
-##Characteristics
+## Characteristics
 
 - [X] Automatic supervision using logic based on Artificial Intelligence controls the student's eye movements, if present, if they make computer changes.
 - [X] Live supervision: When the Teacher or exam supervision presents alerts of students who are carrying out inappropriate actions.
